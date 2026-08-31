@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Xenos of the Great Crusade" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry
+      filePath="Xenos_of_the_Great_Crusade_HH1.catz"
+      dataType="catalogue"
+      dataId="e363e4e8-7ec2-5e07-b71c-2f4c25d07114"
+      dataName="(HH V1) Xenos of the Great Crusade (Fanmade)"
+      dataBattleScribeVersion="2.03"
+      dataRevision="4"/>
+  </dataIndexEntries>
+</dataIndex>
